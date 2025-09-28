@@ -14,7 +14,7 @@ const Contact = () => {
         setStatus('Sending...');
         try {
             // The URL should be your backend's API endpoint
-            const response = await axios.post('http://localhost:5000/api/contact', formData);
+            const response = await axios.post('https://portfolio-1-2yvf.onrender.com', formData);
             setStatus('Message sent successfully!');
             setFormData({ name: '', email: '', message: '' }); // Clear form
         } catch (error) {
