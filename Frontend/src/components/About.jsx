@@ -11,7 +11,7 @@ const About = () => {
                     <div className="md:w-1/3 w-full flex justify-center">
                         {/* Place your image in the `public` folder and update the src path */}
                         <img
-                            src="/src/components/profile.jpg"
+                            src="/src/assets/image/WhatsApp Image 2025-09-22 at 09.34.15_0c37a829.jpg"
                             alt="Vinodh Kumar"
                             className="rounded-full w-64 h-64 object-cover shadow-lg border-4 border-cyan-500"
                         />

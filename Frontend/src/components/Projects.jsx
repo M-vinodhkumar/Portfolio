@@ -5,14 +5,14 @@ const projectData = [
     {
         title: "E-commerce Platform",
         description: "I developed a fully responsive e-commerce website dedicated to showcasing and selling different types of cameras. The platform is designed to provide a smooth and user-friendly shopping experience with modern UI and fast performance.",
-        image: "/src/components/E-commerce.jpg", // Place image in public folder
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq5q-HgzwQPrsLW_p26wRwVj_8LIXqSGudQ&s", // Place image in public folder
         liveLink: "https://e-commerce-eight-silk.vercel.app/",
         githubLink: "https://github.com/M-vinodhkumar/E-commerce"
     },
     {
         title: "BulkMail-MERN Stack Mailing Website",
         description: "A full-stack web application designed to simplify bulk email campaigns. This tool allows authenticated users to upload an Excel sheet of contacts, compose a message, and dispatch personalized emails efficiently. The application includes a dashboard to track the status of sent emails.",
-        image: "/src/components/Bulkmail.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFAyeuVfiEoVDtmcsQc_Ba4_9LFaoRKnSLA&s",
         liveLink: "https://bulkmail-sender.vercel.app/",
         githubLink: "https://github.com/M-vinodhkumar/Bulkmail-sender",
         tech: "Tech Stack : React, Node.js, Express, MongoDB, Nodemailer, Tailwind CSS"
@@ -20,9 +20,9 @@ const projectData = [
     {
         title: "Weather App using API",
         description: "This is ideal for a project built primarily with a frontend framework like React that calls a public weather API.",
-        image: "/src/components/weather.png", // Place image in public folder
+        image: "https://cdn-icons-png.flaticon.com/512/1779/1779940.png", // Place image in public folder
         liveLink: "https://cweather001.vercel.app/",
-        githubLink: "https://github.com/M-vinodhkumar/Cweather001",
+        githubLink: "https://github.com/your-repo",
         tech: "Tech Stack : React, Tailwind CSS, OpenWeatherMap API"
     },
 ];
