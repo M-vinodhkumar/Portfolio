@@ -27,7 +27,7 @@ const About = () => {
                         </p>
                         <div className="text-center md:text-left">
                             <a      
-                                href="/your-resume.pdf" // Place your resume in the `public` folder
+                                href="/src/assets/resume A vinodh MERN (1).pdf" // Place your resume in the `public` folder
                                 download
                                 className="inline-block bg-cyan-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-cyan-700 transition-colors duration-300 shadow-md"
                             >
